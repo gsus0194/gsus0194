@@ -6,10 +6,6 @@ My name is Jesús Villegas and I'm a front-end developer. I'm currently working 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsus0194&layout=compact&theme=dracula&exclude_repo=IDWB,proj001,recipes,reflections,create-your-own-adventure,PrograWeb,Prolog,TAP,BD-android,PracticasJavaFX,Border-Layout,iscteamviz7,Arte-y-cultura,design" />
 </a>
 
-<a href="https://github.com/gsus0194/netflix-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsus0194&repo=netflix-clone&theme=dracula" />
-</a>
-
 <a href="https://github.com/gsus0194/amazon-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gsus0194&repo=amazon-clone&theme=dracula" />
 </a>
